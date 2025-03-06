@@ -1,0 +1,43 @@
+Reference,Value,Footprint,Description
+BZ1,Buzzer,Buzzer_Beeper:MagneticBuzzer_ProSignal_ABI-009-RC,"Buzzer, polarized"
+C1,22pF,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor
+C2,22pF,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor
+C3,1uF,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,Unpolarized capacitor
+C4,470uF,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,Polarized capacitor
+C5,470uF,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,Polarized capacitor
+C6,1uF,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,Unpolarized capacitor
+C7,1uF,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,Unpolarized capacitor
+C8,10nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Unpolarized capacitor
+D1,MBRD1045,CustomPackage:TO-252-2_TabPin1_Other2,Schottky Rectifier 45V 10(150)A TO252-2
+D2,LED_WORK,LED_THT:LED_D3.0mm,Light emitting diode
+D3,LED_ACTIVE,LED_THT:LED_D3.0mm,Light emitting diode
+H1,MountingHole,MountingHole:MountingHole_3.2mm_M3,Mounting Hole without connection
+H2,MountingHole,MountingHole:MountingHole_3.2mm_M3,Mounting Hole without connection
+H3,MountingHole,MountingHole:MountingHole_3.2mm_M3,Mounting Hole without connection
+H4,MountingHole,MountingHole:MountingHole_3.2mm_M3,Mounting Hole without connection
+J1,Conn_ServoA,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,"Generic connector, single row, 01x03, script generated"
+J2,Conn_ServoB,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,"Generic connector, single row, 01x03, script generated"
+J3,Conn_ServoC,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,"Generic connector, single row, 01x03, script generated"
+J4,Conn_ServoD,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,"Generic connector, single row, 01x03, script generated"
+J5,Conn_MPU,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,"Generic connector, single row, 01x04, script generated"
+J6,Conn_BMP0,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,"Generic connector, single row, 01x04, script generated"
+J7,Conn_BMP1,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,"Generic connector, single row, 01x04, script generated"
+J8,Conn_SWD,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,"Generic connector, single row, 01x08, script generated"
+J9,Conn_BAT,CustomConnectors:Battery_3V7_Cable_solding_connctor,"Generic connector, single row, 01x02, script generated"
+J10,Conn_UART,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,"Generic connector, single row, 01x04, script generated"
+L1,47uh,Inductor_THT:L_Toroid_Vertical_L13.0mm_W6.5mm_P5.60mm,"Inductor with ferrite core, small symbol"
+Q1,IRLR8726,Package_TO_SOT_SMD:TO-252-2,"1.7A Id, 500V Vds, CoolMOS N-Channel Power MOSFET, 3Ohm Ron, 4.3nC Qg (typ), TO-252-2"
+R1,1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+R2,3k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+R3,10k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+R4,10k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+R5,10k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+R6,1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+R7,3.3k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+R8,3.3k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor
+RV1,1k,Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical,Potentiometer
+U1,LGT8F328P,Package_QFP:LQFP-32_7x7mm_P0.8mm,8-bit microcontroller based on AVR architecture
+U2,L78L33_SOT89,Package_TO_SOT_SMD:SOT-89-3,"Positive 100mA 30V Linear Regulator, Fixed Output 3.3V, SOT-89"
+U3,XL6019,Package_TO_SOT_SMD:TO-263-5_TabPin3,DC-DC Pull-up converter
+U4,W25Q128JVS,Package_DIP:DIP-8_W7.62mm_LongPads,"128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"
+Y1,Crystal,Crystal:Crystal_HC49-4H_Vertical,Two pin crystal
