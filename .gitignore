@@ -1,5 +1,6 @@
 fp-info-cache
-~GammaAnomalain.kicad_sch.lck
-~GammaAnomalain.kicad_pcb.lck
+*.kicad_sch.lck
+*.kicad_pcb.lck
+*.sch-bak
 GammaAnomalain-backups
 'Gerber & BOM'/Gerber/*
